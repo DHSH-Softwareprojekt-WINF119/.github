@@ -6,4 +6,4 @@ Durch interne Vorgaben ist der eigentliche Quellcode nicht öffentlich zugängli
 
 ---
 
-[![dhsh logo](Logo_DHSH_Text_Extra_Lange_RGB.jpg)](https://www.dhsh.de/)
+[![dhsh logo](https://raw.githubusercontent.com/DHSH-Softwareprojekt-WINF119/.github/main/profile/Logo_DHSH_Text_Extra_Lange_RGB.jpg)](https://www.dhsh.de/)
